@@ -104,7 +104,7 @@ typing_extensions==4.9.0
 tzdata==2024.1
 urllib3==2.2.1
 vvm==0.1.0
-vyper==0.3.10
+vyper==0.4.0
 wcwidth==0.2.13
 web3==6.15.1
 websockets==12.0
